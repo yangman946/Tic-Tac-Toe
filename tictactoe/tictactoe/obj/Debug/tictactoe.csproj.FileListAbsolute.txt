@@ -1,0 +1,9 @@
+D:\clarence's stuff\C# projects\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+D:\clarence's stuff\C# projects\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+D:\clarence's stuff\C# projects\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+D:\clarence's stuff\C# projects\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+D:\clarence's stuff\C# projects\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+D:\clarence's stuff\C# projects\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+D:\clarence's stuff\C# projects\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+D:\clarence's stuff\C# projects\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+D:\clarence's stuff\C# projects\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
