@@ -7,3 +7,12 @@ D:\clarence's stuff\C# projects\tictactoe\tictactoe\obj\Debug\tictactoe.Properti
 D:\clarence's stuff\C# projects\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
 D:\clarence's stuff\C# projects\tictactoe\tictactoe\obj\Debug\tictactoe.exe
 D:\clarence's stuff\C# projects\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\clare\Documents\GitHub\Tic-Tac-Toe\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\clare\Documents\GitHub\Tic-Tac-Toe\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\clare\Documents\GitHub\Tic-Tac-Toe\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\clare\Documents\GitHub\Tic-Tac-Toe\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\clare\Documents\GitHub\Tic-Tac-Toe\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\clare\Documents\GitHub\Tic-Tac-Toe\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\clare\Documents\GitHub\Tic-Tac-Toe\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\clare\Documents\GitHub\Tic-Tac-Toe\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\clare\Documents\GitHub\Tic-Tac-Toe\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
